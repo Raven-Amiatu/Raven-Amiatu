@@ -4,7 +4,7 @@ I'm an analyst passionate in data science, machine learning and the ai space. My
 
 ## 💡 About Me: 
 
-I began my data science journey in 2022, transitioning from a background in medicine to pursue my passion for technology and analytics. After moving to Melbourne, I embarked on a Master's in Data Science at the University of Melbourne, honing my skills to navigate and excel in today's competitive tech market. GitHub serves as a platform to showcase my creativity, technical expertise, and dedication to solving complex problems through data-driven solutions.  
+I began my data science journey in 2022, transitioning from a background in medicine to pursue my passion for technology and data analytics. After moving to Melbourne, I embarked on a Master's in Data Science at the University of Melbourne, honing my skills to navigate and excel in today's competitive tech market. GitHub serves as a platform to showcase my creativity, technical expertise, and dedication to solving complex problems through data-driven solutions.  
 
 ## 📜 Qualitfications:
 
