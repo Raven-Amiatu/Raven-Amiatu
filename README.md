@@ -16,6 +16,7 @@ I began my data science journey in 2022, transitioning from a background in medi
 
 - [Linear Regression Model: Inner Melbourne Unit Rent](https://github.com/Raven-Amiatu/Inner-City-Unit-Median-Rent-Predictor-with-Multivariable-Linear-Regression/tree/main)
 - [Job Fit Prediction Model Australia Job Market with Random Forest](https://github.com/Raven-Amiatu/Job-Fit-Prediction-Model-Australia-Job-Market-with-Random-Forest)
+- [Linear Regression Under the Hood](https://github.com/Raven-Amiatu/Linear-Regression-Under-The-Hood/tree/main)
   
 
 ## 📫 Let's Connect:
