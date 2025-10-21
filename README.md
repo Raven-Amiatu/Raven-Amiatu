@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Raven!
 
-I'm a solo dev who has dove into the startup world to create value. I've always wanted to create things and working on things of my own creation has been the best decision of my life. If you've come to stalk me, this is one of the best places to do it ;) . 
+I'm a solo dev who has dove into the startup world to create value. I've always wanted to create things and working on things of my own creation has been one of the best decisions of my life. If you've come to stalk me, this is one of the best places to do it ;) . 
 
 ## 💡 About Me: 
 
