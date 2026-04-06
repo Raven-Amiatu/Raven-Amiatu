@@ -4,7 +4,7 @@ I'm a solo dev who has dove into the startup world to create value. I've always 
 
 ## 💡 About Me: 
 
-I began my data science journey in 2022, transitioning from a background in medicine to pursue my passion for technology and data analytics. After moving to Melbourne, I embarked on a Master's in Data Science at the University of Melbourne, honing my skills to navigate and excel in today's competitive tech market. GitHub serves as a platform to showcase my creativity, technical expertise, and dedication to solving complex problems. 
+I began my data science journey in 2022, transitioning from a background in medicine to pursue my passion for technology and data analytics. After moving to Melbourne, I embarked on a Master's in Data Science at the University of Melbourne. With my new-found love for tech I begin my solo founder journey.
 
 ## 📜 Qualitfications:
 
